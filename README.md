@@ -20,7 +20,7 @@ ones relevant to your project; you are not expected to adopt all of them.
 * [Coordinated Vulnerability Disclosure (CVD) Policy](templates/Coordinated-Vulnerability-Disclosure-Policy.md)
 * [Static Application Security Testing (SAST) Policy](templates/Static-Application-Security-Testing-Policy.md)
 * [Test Coverage Policy for Major Changes](templates/Test-Coverage-Policy.md)
-* [Secrets and Credentials Management Policy](templates/Secrets%20andCredentials-Management-Policy.md)
+* [Secrets and Credentials Management Policy](templates/Secrets-and-Credentials-Management-Policy.md)
 * [Escalated Permissions Review Policy](templates/Escalated-Permissions-Review-Policy.md)
 
 ## Contributing
