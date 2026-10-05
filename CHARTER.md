@@ -2,7 +2,7 @@
 
 ## [Initiative Name | Working Group | Technical Initiative]
 
-Adopted [Adoptoin Date]
+Adopted [Adoption Date]
 
 This Technical Charter sets forth the responsibilities and procedures for technical contribution to, and oversight of, the OSS-SIRT open source community, which has been established as a Technical Initiative (the "Technical Initiative") under the Open Source Security Foundation (the “OpenSSF”).  All contributors (including committers, maintainers, and other technical positions) and other participants in the Technical Initiative (collectively, “Collaborators”) must comply with the terms of this Technical Charter and the OpenSSF Charter. 
 
@@ -22,13 +22,13 @@ This Technical Charter sets forth the responsibilities and procedures for techni
 
    - i. Contributors include anyone in the technical community that contributes effort, ideas, code, documentation, or other artifacts to the Technical Initiative; 
 
-   - ii. Collaborators are Contributors who have earned the ability to modify ("commit") text, source code, documentation or other artifacts in the Technical Initiative’s repository or direct the agenda or working activities of the Technical Initiative; and
+   - ii. Collaborators are Contributors who have earned the ability to modify ("commit") text, source code, documentation, or other artifacts in the Technical Initiative’s repository or direct the agenda or working activities of the Technical Initiative; and
 
    - iii. A Contributor may become a Collaborator by a majority approval of the existing Collaborators. A Collaborator may be removed by a majority approval of the other existing Collaborators.
 
    - iv. Maintainers are the initial Collaborators defined at the creation of the Technical Initiative. The Maintainers will determine the process for selecting future Maintainers. A Maintainer may be removed by two-thirds approval of the other existing Maintainers, or a majority of the other existing Collaborators.
 
-- d. Participation in the Technical Initiative through becoming a Contributor, Collaborator, or Maintainer is open to anyone, whether a OpenSSF member or not, so long as they abide by the terms of this Technical Charter. 
+- d. Participation in the Technical Initiative through becoming a Contributor, Collaborator, or Maintainer is open to anyone, whether an OpenSSF member or not, so long as they abide by the terms of this Technical Charter. 
 
 - e. The TSC may create, change, modify, or remove roles or their definitions, so long as the definitions of roles for the Technical Initiative are publicly available in the Technical Initiative repository.
 
@@ -88,7 +88,7 @@ This Technical Charter sets forth the responsibilities and procedures for techni
 
   - i. All new inbound code contributions to the Technical Initiative must be made using the Apache License, Version 2.0, available at [https://www.apache.org/licenses/LICENSE-2.0](https://www.apache.org/licenses/LICENSE-2.0) (the "Technical Initiative License"). 
 
-  - ii. All new inbound code contributions must also be accompanied by a Developer Certificate of Origin ([http://developercertificate.org](http://developercertificate.org)) sign-off in the source code system that is submitted through a TSC-approved contribution process which will bind the authorized contributor and, if not self-employed, their employer to the applicable license;
+  - ii. All new inbound code contributions must also be accompanied by a Developer Certificate of Origin ([http://developercertificate.org](http://developercertificate.org)) sign-off in the source code system that is submitted through a TSC-approved contribution process, which will bind the authorized contributor and, if not self-employed, their employer to the applicable license;
 
   - iii. All outbound code will be made available under the Technical Initiative License.
 
@@ -96,7 +96,7 @@ This Technical Charter sets forth the responsibilities and procedures for techni
 
   - v. To the extent a contribution includes or consists of data, any rights in such data shall be made available under the CDLA-Permissive 1.0 License.
 
-  - vi. The Technical Initiative may seek to integrate and contribute back to other open source projects ("Upstream Projects"). In such cases, the Technical Initiative will conform to all license requirements of the Upstream Projects, including dependencies, leveraged by the Technical Initiative.  Upstream Project code contributions not stored within the Technical Initiative’s main code repository will comply with the contribution process and license terms for the applicable Upstream Project.
+  - vi. The Technical Initiative may seek to integrate and contribute back to other open source projects ("Upstream Projects"). In such cases, the Technical Initiative will conform to all license requirements of the Upstream Projects, including dependencies leveraged by the Technical Initiative.  Upstream Project code contributions not stored within the Technical Initiative’s main code repository will comply with the contribution process and license terms for the applicable Upstream Project.
 
 - c. The TSC may approve the use of an alternative license or licenses for inbound or outbound contributions on an exception basis. To request an exception, please describe the contribution, the alternative open source license(s), and the justification for using an alternative open source license for the Technical Initiative. License exceptions must be approved by a two-thirds vote of the entire Governing Board. 
 
